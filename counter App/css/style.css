@@ -1,0 +1,18 @@
+p {
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+    
+}
+
+.display {
+   
+    font-size: 70px;
+    font-family: sans-serif;
+    font-weight: bold
+}
+.btn {
+    margin-left: 10px;
+    margin-top: 50px;
+}
